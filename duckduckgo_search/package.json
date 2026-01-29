@@ -1,0 +1,12 @@
+{
+  "name": "duckduckgo-search-skill",
+  "version": "1.0.0",
+  "description": "DuckDuckGo Search Skill for Clawdbot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["clawdbot", "skill", "duckduckgo", "search"],
+  "author": "小磊",
+  "license": "MIT"
+}
